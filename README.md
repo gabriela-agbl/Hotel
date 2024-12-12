@@ -58,3 +58,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar 
 ## Autor 👤
 
 [Gabriela Rodrigues](https://github.com/Agbl09)
+
+![](https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif)
