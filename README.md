@@ -51,12 +51,9 @@ Este é um site de hotel desenvolvido como parte de um projeto de estudo. Ele ap
 - Imagens: Obtidas de bancos de imagens livres de direitos autorais.
 - Fontes: Google Fonts.
 
-## Contribuição 🤝
+## 📝 Licença
+   Este projeto foi desenvolvido para fins educacionais e está disponível para uso e modificação conforme necessário.
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
-
-## Autor 👤
-
-[Gabriela Rodrigues](https://github.com/Agbl09)
+   Feito por [Gabriela Rodrigues](https://github.com/Agbl09)
 
 ![](https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif)
