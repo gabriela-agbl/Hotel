@@ -30,7 +30,7 @@ Este é um site de hotel desenvolvido como parte de um projeto de estudo. Ele ap
 
 3. Inicie o JSON Server:
    ```bash
-   json-server --watch db.json
+   json-server --watch hotel.json
    ```
 
 4. Abra o arquivo `hotel.html` no navegador. 🌐
