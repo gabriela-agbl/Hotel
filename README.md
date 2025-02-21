@@ -2,21 +2,21 @@
 
 Este é um site de hotel desenvolvido como parte de um projeto de estudo. Ele apresenta as principais funcionalidades e informações de um site de reserva de hotéis.
 
-## Funcionalidades ✨
+## ✨ Funcionalidades
 
 - Página inicial com informações gerais sobre o hotel. 🏠
 - Galeria de fotos do hotel. 🖼️
 - Página de reservas com formulário para coleta de dados do cliente. 📝
 - Exibição de dados de reservas realizadas em uma tabela dinâmica. 📊
 
-## Tecnologias Utilizadas 🛠️
+## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Estrutura do site.
 - **CSS3**: Estilização do site.
 - **JavaScript**: Funcionalidades dinâmicas, como envio de formulários.
 - **JSON Server**: Simulação de um backend para armazenar reservas.
 
-## Como Executar o Projeto 🚀
+## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
    ```bash
@@ -35,7 +35,7 @@ Este é um site de hotel desenvolvido como parte de um projeto de estudo. Ele ap
 
 4. Abra o arquivo `hotel.html` no navegador. 🌐
 
-## Estrutura de Pastas 📂
+## 📂 Estrutura de Pastas
 
 ```
 ├── css
@@ -46,7 +46,7 @@ Este é um site de hotel desenvolvido como parte de um projeto de estudo. Ele ap
 ├── hotel.html        # Página inicial
 ```
 
-## Recursos 📋
+## 📋 Recursos
 
 - Imagens: Obtidas de bancos de imagens livres de direitos autorais.
 - Fontes: Google Fonts.
