@@ -33,7 +33,7 @@ Este é um site de hotel desenvolvido como parte de um projeto de estudo. Ele ap
    json-server --watch hotel.json
    ```
 
-4. Abra o arquivo `hotel.html` no navegador. 🌐
+4. Abra o arquivo `index.html` no navegador. 🌐
 
 ## 📂 Estrutura de Pastas
 
@@ -43,7 +43,7 @@ Este é um site de hotel desenvolvido como parte de um projeto de estudo. Ele ap
 ├── js
 │   └── hotel.js      # Funcionalidades dinâmicas
 ├── hotel.json        # Banco de dados simulado
-├── hotel.html        # Página inicial
+├── index.html        # Página inicial
 ```
 
 ## 📋 Recursos
