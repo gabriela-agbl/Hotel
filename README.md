@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hotel WebSite 🏢</h1>
+<h1>🏢 Hotel WebSite</h1>
 
 Este é um site de hotel desenvolvido como parte de um projeto de estudo. Ele apresenta as principais funcionalidades e informações de um site de reserva de hotéis.
 
