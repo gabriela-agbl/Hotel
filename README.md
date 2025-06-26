@@ -26,7 +26,7 @@ Este é um site de hotel desenvolvido como parte de um projeto de estudo. Ele ap
    
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Agbl09/Hotel.git
+   git clone https://github.com/gabriela-agbl/Hotel.git
    ```
 
 2. Navegue até a pasta do projeto:
@@ -65,7 +65,7 @@ Este é um site de hotel desenvolvido como parte de um projeto de estudo. Ele ap
 <h2>📝 Licença</h2>
    Este projeto foi desenvolvido para fins educacionais e está disponível para uso e modificação conforme necessário.
 
-   Feito por [Gabriela Rodrigues](https://github.com/Agbl09)
+   Feito por [Gabriela Rodrigues](https://github.com/gabriela-agbl)
 
 ![](https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif)
 </div>
